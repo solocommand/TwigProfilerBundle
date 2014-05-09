@@ -9,7 +9,7 @@
 	"target-dir": "CoreSphere/TwigProfilerBundle",
 	"require": {
 		"twig/twig": "~1.11",
-		"symfony/web-profiler-bundle": "~2.4.1"
+		"symfony/web-profiler-bundle": "~2.4"
 	},
 	"authors": [
 		{
